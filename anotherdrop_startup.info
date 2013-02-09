@@ -1,0 +1,45 @@
+name = AnotherDrop Startup
+description = A startup basic drupal installation. AnotherDrop Startup of ready profiles
+version = VERSION
+core = 7.x
+
+;core modules
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+;AnotherDrop Startup modules
+dependencies[] = backup_migrate
+dependencies[] = wysiwyg
+dependencies[] = date_popup
+dependencies[] = media_youtube
+dependencies[] = pathologic
+dependencies[] = pathauto
+dependencies[] = globalredirect
+dependencies[] = jquery_update
+dependencies[] = views_ui
+dependencies[] = email
+dependencies[] = link
+dependencies[] = advanced_help
+
+;AnotherDrop Startup core modules
+dependencies[] = contact
+dependencies[] = translation
