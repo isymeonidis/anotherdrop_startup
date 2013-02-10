@@ -1,6 +1,6 @@
 name = AnotherDrop Startup
 description = A startup basic drupal installation. AnotherDrop Startup of ready profiles
-version = VERSION
+version = 7.1-1.x
 core = 7.x
 
 ;core modules
